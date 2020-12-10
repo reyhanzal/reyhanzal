@@ -4,12 +4,11 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Experiences in many roles in IT Industries as : Front-end, Back-end role, Mobile Dev, and Technical Lead Engineer
-- 💼 &nbsp; Freelance Graphic Designer since 2014, currently mastering UI/UX 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
-- 📫 &nbsp; How to reach me **zalbinaridwan@gmailcom**
-- 📫 &nbsp; or **www.ridwanzal.com**
+- 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer, ETL Developer.
+- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : CI4, MongoDB, VueJS
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 📫 &nbsp; How to reach me **muhammadreyhanzalbina@gmailcom**
 
 <br/>
 <br/>
@@ -29,8 +28,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </td>
 			<td rowspan="5">
 			<p align="center">
-				<a href="https://github.com/ridwanzal">
-					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzal&theme=vue&layout=compact" />
+				<a href="https://github.com/reyhanzal">
+					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanzal&theme=vue&layout=compact" />
 				</a>
 				</p>
 			</td>
