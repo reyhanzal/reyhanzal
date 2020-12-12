@@ -64,7 +64,7 @@
 			    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="30" height="30"/>
 			    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
 			</td>
-			<td rowspan="4">
+			<td rowspan="5">
 				<p align="center">
 					<a href="https://github.com/reyhanzal">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyhanzal&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
