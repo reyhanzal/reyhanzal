@@ -52,7 +52,6 @@
 			<td>
 			    <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="30" height="30"/>
 			    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-			    <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
@@ -89,7 +88,7 @@
 <h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://reyhanzal.com">
-		<img src="https://img.shields.io/badge/-ridwanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-reyhanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
 	</a>
 	<a href="https://www.linkedin.com/in/mreyhanzalbina/">
 		<img src="https://img.shields.io/badge/-M%20Reyhan%20Zalbina-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
