@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer, ETL Developer.
-- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : CI4, MongoDB, VueJS, PowerBI
+- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : CI4, MongoDB, VueJS, Power BI
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 📫 &nbsp; How to reach me **muhammadreyhanzalbina@gmailcom**
 
@@ -45,7 +45,10 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Backend Stack</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></td>
+			<td>
+	                   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
+			  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+		       </td>
 		</tr>
 		<tr>
 			<td><p align="left">🛢 &nbsp;Database</p></td>
@@ -61,7 +64,7 @@
 			    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="30" height="30"/>
 			    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
 			</td>
-			<td rowspan="5">
+			<td rowspan="4">
 				<p align="center">
 					<a href="https://github.com/reyhanzal">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyhanzal&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
