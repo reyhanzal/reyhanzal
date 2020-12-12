@@ -96,7 +96,7 @@
 	<a href="mailto:zalbinaridwan@gmail.com">
 		<img src="https://img.shields.io/badge/-muhammadreyhanzalbina@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
-	<a href="https://instagram.com/reyhanzal">
+	<a href="https://instagram.com/ryhnzl">
 		<img src="https://img.shields.io/badge/-@ryhnzl-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
 	<a href="https://www.github.com/reyhanzal">
