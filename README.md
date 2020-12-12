@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer, ETL Developer.
-- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : CI4, MongoDB, VueJS
+- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : CI4, MongoDB, VueJS, PowerBI
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 📫 &nbsp; How to reach me **muhammadreyhanzalbina@gmailcom**
 
@@ -35,8 +35,13 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Frontend Stack</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
-src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/></td>
+			<td>
+			    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
+			    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+			    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+			    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+			    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
+			</td>
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Backend Stack</p></td>
@@ -83,29 +88,29 @@ src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d
 
 <h3> Connect with Me </h3>
 <p align="center">
-	<a href="https://ridwanzal.com">
+	<a href="https://reyhanzal.com">
 		<img src="https://img.shields.io/badge/-ridwanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
 	</a>
-	<a href="https://www.linkedin.com/in/mridwanzalbina/">
-		<img src="https://img.shields.io/badge/-M%20Ridwan%20Zalbina-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+	<a href="https://www.linkedin.com/in/mreyhanzalbina/">
+		<img src="https://img.shields.io/badge/-M%20Reyhan%20Zalbina-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
 	<a href="mailto:zalbinaridwan@gmail.com">
-		<img src="https://img.shields.io/badge/-zalbinaridwan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-muhammadreyhanzalbina@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
-	<a href="https://instagram.com/ridwanzal">
-		<img src="https://img.shields.io/badge/-@ridwanzal-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+	<a href="https://instagram.com/reyhanzal">
+		<img src="https://img.shields.io/badge/-@reyhanzal-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
-	<a href="https://www.github.com/ridwanzal">
-		<img src="https://img.shields.io/github/followers/ridwanzal?style=flat-square&logo=Github&logoColor=white"/>
+	<a href="https://www.github.com/reyhanzal">
+		<img src="https://img.shields.io/github/followers/reyhanzal?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/ridwanzal/ridwanzal/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+	<a href="https://github.com/reyhanzal/reyhanzal/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
 		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
 	</a>
-	<a href="https://komarev.com/ghpvc/?username=ridwanzal">
-		<img src="https://komarev.com/ghpvc/?username=ridwanzal"/>
+	<a href="https://komarev.com/ghpvc/?username=reyhanzal">
+		<img src="https://komarev.com/ghpvc/?username=reyhanzal"/>
 	</a>
 </p>
 
