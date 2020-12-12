@@ -56,7 +56,11 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Data Visualization</p></td>
-			<td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </td>
+			<td>
+			    <img src="https://www.flaticon.com/svg/static/icons/svg/1/1675.svg" alt="sharepoint" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="30" height="30"/>
+			    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
+			</td>
 			<td rowspan="5">
 				<p align="center">
 					<a href="https://github.com/reyhanzal">
