@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is M. Reyhan Zalbina</h1>  
 
-<h3 align="center">Thanks for coming to my github pages</h3>
+<h3 align="center">Thanks for coming here</h3>
 
 <h3> 👨 &nbsp;About Me </h3>
 
@@ -97,7 +97,7 @@
 		<img src="https://img.shields.io/badge/-muhammadreyhanzalbina@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
 	<a href="https://instagram.com/reyhanzal">
-		<img src="https://img.shields.io/badge/-@reyhanzal-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-@ryhnzl-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
 	<a href="https://www.github.com/reyhanzal">
 		<img src="https://img.shields.io/github/followers/reyhanzal?style=flat-square&logo=Github&logoColor=white"/>
