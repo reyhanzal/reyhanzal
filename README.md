@@ -95,7 +95,7 @@
 	</tbody>
 </table>
 
-<h3> Connect with Me </h3>
+<h3> 🔗 Connect with Me </h3>
 <p align="center">
 	<a href="https://reyhanzal.com">
 		<img src="https://img.shields.io/badge/-reyhanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
