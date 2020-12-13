@@ -84,8 +84,8 @@
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
 			<td>
-			    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </td>
-			    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </td>
+			    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
+			    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
