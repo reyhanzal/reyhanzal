@@ -25,7 +25,7 @@
 			<td><p align="left">💻 &nbsp;Language</p></td>
 			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> </td>
-			<td rowspan="5">
+			<td rowspan="4">
 			<p align="center">
 				<a href="https://github.com/reyhanzal">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanzal&theme=vue&layout=compact" />
