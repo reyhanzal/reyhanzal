@@ -62,9 +62,10 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Data Visualization</p></td>
-			<td>
-			    <img src="https://www.flaticon.com/svg/static/icons/svg/1/1675.svg" alt="sharepoint" width="30" height="30"/>
-			    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="30" height="30"/>
+			<td> 
+			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="sharepoint" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="powerbi" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="30" height="30"/>
 			    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
 			</td>
 			<td rowspan="5">
@@ -93,7 +94,10 @@
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
-			<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </td>
+			<td>
+		            <img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="jira" width="30" height="30"/>
+			    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+		       </td>
 		</tr>
 	</tbody>
 </table>
