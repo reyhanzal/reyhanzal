@@ -27,7 +27,7 @@
 			    <img src="https://www.flaticon.com/svg/static/icons/svg/2479/2479297.svg" alt="visualbasic" width="30" height="30"/>
 		            <img src="https://www.flaticon.com/svg/static/icons/svg/2772/2772128.svg" alt="sql" width="30" height="30"/>
 			    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-                            <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> </td>
+                            <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="30" height="30"/> </td>
 			<td rowspan="4">
 			<p align="center">
 				<a href="https://github.com/reyhanzal">
@@ -88,18 +88,21 @@
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
 			<td>
+			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="office" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="vs" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premierpro" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffect" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
-			<td> 
-			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="office" width="30" height="30"/>
-			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="30" height="30"/>
+			<td>
 			    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp" width="30" height="30"/>
+			    <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="30" height="30"/>
 		       </td>
 		</tr>
 	</tbody>
