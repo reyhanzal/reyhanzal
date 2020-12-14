@@ -2,7 +2,7 @@
 
 <h3 align="center">Thanks for coming here</h3>
 
-<h3> 🦱 &nbsp;About Me </h3>
+<h3> 👨‍💼 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer and ETL Developer.
