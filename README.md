@@ -53,7 +53,7 @@
 		<tr>
 			<td><p align="left">🛢 &nbsp;Database</p></td>
 			<td>
-			    <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="30" height="30"/>
+			    <img src="https://www.flaticon.com/svg/static/icons/svg/2772/2772128.svg" alt="sql" width="30" height="30"/>
 			    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 			</td>
 		</tr>
