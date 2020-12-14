@@ -88,15 +88,16 @@
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
 			<td>
-			    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
-			    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premierpro" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
 			<td>
-		            <img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="jira" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="30" height="30"/>
 			    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+		            <img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="jira" width="30" height="30"/>
 		       </td>
 		</tr>
 	</tbody>
