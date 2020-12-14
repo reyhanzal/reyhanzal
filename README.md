@@ -25,7 +25,7 @@
 			<td><p align="left">💻 &nbsp;Language</p></td>
 			<td>
 			    <img src="https://www.flaticon.com/svg/static/icons/svg/2479/2479297.svg" alt="visualbasic" width="30" height="30"/>
-		            <img src="https://www.flaticon.com/premium-icon/icons/svg/3825/3825480.svg" alt="vba" width="30" height="30"/>
+		            <img src="https://www.flaticon.com/svg/static/icons/svg/2772/2772128.svg" alt="sql" width="30" height="30"/>
 			    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
                             <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> </td>
 			<td rowspan="4">
@@ -55,8 +55,8 @@
 		</tr>
 		<tr>
 			<td><p align="left">🛢 &nbsp;Database</p></td>
-			<td>
-			    <img src="https://www.flaticon.com/svg/static/icons/svg/2772/2772128.svg" alt="sql" width="30" height="30"/>
+			<td> 
+			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="sql" width="30" height="30"/>
 			    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 			</td>
 		</tr>
