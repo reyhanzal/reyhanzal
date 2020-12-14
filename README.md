@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer and ETL Developer.
-- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : CI4, MongoDB, VueJS, Power BI
+- 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : Power BI, MongoDB
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 📫 &nbsp; How to reach me **muhammadreyhanzalbina@gmailcom**
 
