@@ -2,15 +2,13 @@
 
 <h3 align="center">Thanks for coming here</h3>
 
-<h3> 👨 &nbsp;About Me </h3>
+<h3> 🦱 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer and ETL Developer.
 - 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : Power BI, MongoDB
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 📚 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 📫 &nbsp; How to reach me **muhammadreyhanzalbina@gmailcom**
-
-<br/>
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -108,7 +106,7 @@
 	</tbody>
 </table>
 
-<h3> 🔗 Connect with Me </h3>
+<h3> ☎️ &nbsp;Connect with Me </h3>
 <p align="center">
 	<!--a href="https://reyhanzal.com">
 		<img src="https://img.shields.io/badge/-reyhanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
