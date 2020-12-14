@@ -107,9 +107,9 @@
 
 <h3> 🔗 Connect with Me </h3>
 <p align="center">
-	<a href="https://reyhanzal.com">
+	<!--a href="https://reyhanzal.com">
 		<img src="https://img.shields.io/badge/-reyhanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
-	</a>
+	</a-->
 	<a href="https://www.linkedin.com/in/mreyhanzalbina/">
 		<img src="https://img.shields.io/badge/-M%20Reyhan%20Zalbina-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
