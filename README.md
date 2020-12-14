@@ -76,10 +76,10 @@
 				</p>
 			</td>
 		</tr>
-		<tr>
+		<!--tr>
 			<td><p align="left">🌐 &nbsp;Backend as a Service</p></td>
 			<td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></td>
-		</tr>
+		</tr-->
 		<tr>
 			<td><p align="left">🌐 &nbsp;Framework</p></td>
 			<td> 
@@ -98,7 +98,8 @@
 			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="office" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="30" height="30"/>
 			    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-		            <img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="jira" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp" width="30" height="30"/>
 		       </td>
 		</tr>
 	</tbody>
