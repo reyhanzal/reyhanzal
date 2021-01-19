@@ -100,7 +100,7 @@
 			    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp" width="30" height="30"/>
-			    <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache-error" width="30" height="30"/>
+			    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache-error" width="30" height="30"/>
 		       </td>
 		</tr>
 	</tbody>
