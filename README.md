@@ -24,8 +24,8 @@
 			<td>
 			    <img src="https://www.flaticon.com/svg/static/icons/svg/2479/2479297.svg" alt="visualbasic" width="30" height="30"/>
 		            <img src="https://www.flaticon.com/svg/static/icons/svg/2772/2772128.svg" alt="sql" width="30" height="30"/>
-			    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-                            <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="30" height="30"/> </td>
+			    <img src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg" alt="javascript" width="30" height="30"/>
+                            <img src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg" alt="php" width="30" height="30"/> </td>
 			<td rowspan="4">
 			<p align="center">
 				<a href="https://github.com/reyhanzal">
