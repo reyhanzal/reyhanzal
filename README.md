@@ -8,7 +8,7 @@
 - 💼 &nbsp; Experiences over 5 years in IT Technology Industries as : Software Developer and ETL Developer.
 - 💼 &nbsp; Full time programmer since 2015, currently learning new technologies : Power BI, MongoDB
 - 📚 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 📫 &nbsp; How to reach me **muhammadreyhanzalbina@gmailcom**
+- 📫 &nbsp; How to reach me by email **muhammadreyhanzalbina@gmailcom**
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
