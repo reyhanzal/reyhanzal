@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 💼 &nbsp; Experiences over 5 years in IT field as : Software Developer and ETL Developer.
 - 💼 &nbsp; Full time programmer since 2015.
-- 📚 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 📚 &nbsp; Exploring new technologies, developing software and sports.
 - 📫 &nbsp; How to reach me by email **muhammadreyhanzalbina@gmailcom**
 <br/>
 
