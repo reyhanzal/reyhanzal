@@ -48,13 +48,13 @@
 			<td><p align="left">🌐 &nbsp;Backend Stack</p></td>
 			<td>
 	                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
-			  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="express" width="30" height="30"/>
+			  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="express" width="30" height="30"/>
 		       </td>
 		</tr>
 		<tr>
 			<td><p align="left">🛢 &nbsp;Database</p></td>
 			<td> 
-			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="sql" width="30" height="30"/>
+			    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="30" height="30"/>
 			    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 			</td>
 		</tr>
