@@ -48,7 +48,7 @@
 			<td><p align="left">🌐 &nbsp;Backend Stack</p></td>
 			<td>
 	                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
-			  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+			  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="express" width="30" height="30"/>
 		       </td>
 		</tr>
 		<tr>
@@ -89,7 +89,7 @@
 			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="office" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="vs" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="30" height="30"/>
-			    <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" alt="photoshop" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premierpro" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffect" width="30" height="30"/>
 			</td>
