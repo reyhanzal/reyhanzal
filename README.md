@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is M. Reyhan Zalbina</h1>  
+<h1 align="center">Hi 👋, my name is M. Reyhan Zalbina</h1>  
 
 <h3 align="center">Thanks for coming here</h3>
 
