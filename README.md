@@ -88,7 +88,7 @@
 			<td>
 			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="office" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="vs" width="30" height="30"/>
-			    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="30" height="30"/>
+			    <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" alt="vscode" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" alt="photoshop" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premierpro" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffect" width="30" height="30"/>
