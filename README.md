@@ -22,7 +22,7 @@
 		<tr>
 			<td><p align="left">💻 &nbsp;Language</p></td>
 			<td>
-			  <img src="<img src="https://www.svgrepo.com/show/3966/vb-file.svg"/>" alt="visualbasic" width="30" height="30"/>
+			  <img src="https://www.svgrepo.com/show/3966/vb-file.svg" alt="visualbasic" width="30" height="30"/>
 		          <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="30" height="30"/>
 			  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
                           <img src="https://www.svgrepo.com/show/342109/php.svg" alt="php" width="30" height="30"/> </td>
