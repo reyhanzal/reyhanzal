@@ -115,7 +115,7 @@
 	<a href="https://www.linkedin.com/in/mreyhanzalbina/">
 		<img src="https://img.shields.io/badge/-M%20Reyhan%20Zalbina-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
-	<a href="mailto:zalbinaridwan@gmail.com">
+	<a href="mailto:muhammadreyhanzalbina@gmail.com">
 		<img src="https://img.shields.io/badge/-muhammadreyhanzalbina@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
 	<a href="https://instagram.com/ryhnzl">
