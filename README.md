@@ -10,7 +10,6 @@
 - 📚 &nbsp; Exploring new technologies, developing software and sports.
 - 📫 &nbsp; How to reach me by email **muhammadreyhanzalbina@gmailcom**
 - 🔗 &nbsp; Find me on **reyhanzal.github.io**
-<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <table>
