@@ -9,7 +9,7 @@
 - 💼 &nbsp; Full time programmer since 2015.
 - 📚 &nbsp; Exploring new technologies, developing software and sports.
 - 📫 &nbsp; How to reach me by email **muhammadreyhanzalbina@gmailcom**
-- 🔗 &nbsp; Find me on **reyhanzal.github.io**
+- 🔗 &nbsp; Find me on **muhammadreyhanzalbina.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <table>
