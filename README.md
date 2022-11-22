@@ -63,7 +63,7 @@
 			<td> 
 			    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="sharepoint" width="30" height="30"/>
 			    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="powerbi" width="30" height="30"/>
-			    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="30" height="30"/>
+			    <img src="https://cdn.worldvectorlogo.com/logos/sap-bi-1.svg" alt="sap-bi" width="30" height="30"/>
 			    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
 			</td>
 			<td rowspan="5">
