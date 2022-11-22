@@ -5,11 +5,11 @@
 <h3> 👨‍💼 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated as Computer Science (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Experiences as software engineer.
-- 💼 &nbsp; Full time programmer since 2015.
+- 💼 &nbsp; Experiences as software developer, database developer and business intelligence analyst.
+- 💼 &nbsp; Full time worker since 2015.
 - 📚 &nbsp; Exploring new technologies, developing software and sports.
 - 📫 &nbsp; How to reach me by email **muhammadreyhanzalbina@gmailcom**
-- 🔗 &nbsp; Find me on **muhammadreyhanzalbina.com**
+- 🔗 &nbsp; Find me on **zalvice.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <table>
