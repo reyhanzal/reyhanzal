@@ -10,4 +10,4 @@
 
 I'm a software developer, database developer and business intelligence analyst. Everyday working with data (small to big) to provide the visual for leadership and executive at my company to add value to the business.
 
-I like reading books, mostly self-improvement, pyschology and finance. I also do some sports like running and badminton.
+I like reading books, mostly self-improvement, psychology and finance. I also do some sports like running and badminton.
