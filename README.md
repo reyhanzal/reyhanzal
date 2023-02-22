@@ -8,6 +8,6 @@
 
 ---
 
-I'm a software developer, database developer and business intelligence analyst. Day to day designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value. Collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
+I'm a software developer, database developer and business intelligence developer. Day to day designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value. Collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
 
 I like reading books, mostly self-improvement, psychology and finance. I also do some sports like running and badminton.
