@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mreyhanzalbina/">LinkedIn</a> •
   <a href="https://instagram.com/mreyhanzalbina">Instagram</a> •
-  <a href="https://twitter.com/mreyhanzalbina">Twitter</a>
+  <a href="https://x.com/mreyhanzalbina">X</a>
 </p>
 
 ---
